@@ -1,6 +1,6 @@
 VitaUpdateBlocker
 =================
-This application does what [Chales Proxy Trick](http://wololo.net/2013/01/25/psn-and-online-features-on-without-updating-on-fw-2-02-charles-proxy/) does but without hassle.
+This application does what [Charles Proxy Trick](http://wololo.net/2013/01/25/psn-and-online-features-on-without-updating-on-fw-2-02-charles-proxy/) does but without hassle.
 
 Also this is Python based cross-platform application so you can even install this application to 24/7 running server to access PSN anyhwere.
 
